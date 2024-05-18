@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @santilinares
-- 👀 I’m interested in technology in general, but lately i've been really interested in how technology can improve our life as car drivers,
-  but the fact is I'm interested in learning all kind of things.
-- 🌱 I’m currently studying Computer Engineering. I'm in my 2º year and I honestly like it.
-- 💞️ I’m looking to collaborate on any kind of project that doesn't requires big knowledge, so I can both learn and help.
+- 👀 I’m interested in technology in general, specially in how it can have a positive impact in our life.
+- 🌱 I’m currently studying Computer Science and I'm in my 4th year.
 - 📫 You can reach me via this email... slinaresoliveira@gmail.com
 
 <!---
